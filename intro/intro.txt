@@ -1,52 +1,62 @@
 ===Replace the answers in the (parentheses)!===
 
 My name is:
-(name)
+Hannah Kim 
+
 
 My preferred email is:
-(email)
+hjkim@college.harvard.edu
 
 My GitHub username is:
-(i_aint_afraid_of_no_ghost)
+@hjkim0
+
 
 My class year is:
-(2022 | 2023 | 2024 | 2025)
+2025
 
 I'm (planning on) concentrating in:
-(concentration)
+Computer Science and Government
 
 I'm living in:
-(house)
+Apley
 
 My favorite food/cuisine is:
-(toothpaste/antarctican)
+Asian food: Korean, Thai, Japanese, etc.
 
 My favorite HUDS food is:
-(RICEEEEEEEEE)
+The clam chowder and sweet potato fries
 
 My favorite movie is:
-(gone with the wind)
+The Proposal 
 
 Things that I enjoy doing at home include:
-(making dresses out of curtains - any Enchanted fans here?)
+Reading, watching movies with my family
 
 Things that I enjoy doing on campus include:
-(going to CVS three times a day)
+Walking along the Charles River 
 
 Before Crimson Tech, I've coded:
-(i've never coded | during classes/hackathons | during jobs/internships | something else: ____ )
+During hackathons and some side projects
 
 I decided to comp Crimtech because:
-(olivia and max seemed REALLY cool at the open house)
+I really like using code to work on real world projects, and this is a perfect
+place to get that experience. I also love journalism, so it's nice to be in a
+space where I can see tech and journalism come together. 
 
 What I hope to get out of the comp is:
-(new friends, new tech skills, crispy chicken fingers)
+Honestly, just meeting new people and developing my programming skills. I 
+feel like computer science classes are very theory based and because of that
+my actual coding skills are lacking. I really want to hone in on my programming
+skills. 
 
 Ideas I have for making the comp more helpful or fun include:
-(max giving everyone $10,000 when they finish a lab)
+Maybe we could all go to a hackathon together for fun. We could also diversify
+what skills we use in CS. What if we made a mobile app? Integrated ML? 
 
 A song that I would like added to the official Crimtech Comp Fall 2021 Playlist is:
-(turn down for what)
+Way Back Home by Shaun 
 
 Questions or concerns I have about the comp, school, or life in general are:
-(42)
+Wow it's a lot to handle. College classes are a lot harder than high school
+and it's hard finding my groove with... well everything. It's a process and 
+while things are difficult now, I know I'm learning a lot as I go. 
